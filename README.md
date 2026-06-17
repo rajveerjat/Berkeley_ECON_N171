@@ -1,4 +1,4 @@
-# ECON N171: Economic Development — Python Notebooks
+# ECON N171: Python Notebooks
 **UC Berkeley | Summer 2026 | Rajveer Jat**
 
 This repository contains Python/Google Colab notebooks for **ECON N171**, taught at UC Berkeley. Each notebook is self-contained, requires no local installation, and is designed to run end-to-end in Google Colab in under 50 minutes.
